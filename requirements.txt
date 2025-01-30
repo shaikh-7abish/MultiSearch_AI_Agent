@@ -1,0 +1,7 @@
+arxiv
+langchain_community
+wikipedia
+langchain
+langchainhub
+faiss-cpu
+langchain_core
